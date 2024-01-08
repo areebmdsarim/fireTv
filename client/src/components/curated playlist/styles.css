@@ -1,0 +1,12 @@
+.curated-page {
+  color: white;
+  height: 100vh;
+  width: 100vw;
+  background: rgb(3, 25, 62);
+  background: linear-gradient(
+    342deg,
+    rgba(3, 25, 62, 1) 0%,
+    rgba(7, 71, 177, 1) 61%,
+    rgba(248, 250, 255, 1) 99%
+  );
+}
